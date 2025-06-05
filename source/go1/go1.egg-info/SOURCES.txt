@@ -1,0 +1,10 @@
+pyproject.toml
+setup.py
+go1/__init__.py
+go1/ui_extension_example.py
+go1.egg-info/PKG-INFO
+go1.egg-info/SOURCES.txt
+go1.egg-info/dependency_links.txt
+go1.egg-info/not-zip-safe
+go1.egg-info/requires.txt
+go1.egg-info/top_level.txt
